@@ -1,0 +1,44 @@
+h1{
+	color: blue;
+}
+h2{
+	color: grey;
+}
+html{
+	background-color: rgb(225 225 194);
+}
+#PBS{
+	color: rgb(31 65 203);
+}
+#Target{
+	color: red;
+}
+table,th,td{
+	border: 2px solid black;
+	padding: 5px;
+}
+nav li{
+	text-transform: uppercase;
+	display: inline;
+	font-size: 20px;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	margin-right: 30px;
+}
+nav a:hover{
+	text-decoration: underline;
+	color: darkgrey;
+}
+nav a:active{
+	color: white;
+}
+.foot-nav li{
+	text-transform: uppercase;
+	display: inline;
+	font-size: 15px;
+}
+
+
+
